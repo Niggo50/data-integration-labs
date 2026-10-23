@@ -1,12 +1,12 @@
 # Table of Contents
 - [Text](#Text)
 - [Lists](#Lists)
-- [Links and Images](#LinksandImages)
+- [Links and Images](#Links-and-Images)
 - [Code](#Code)
 - [Quotes](#Quotes)
 - [Tables](#Tables)
 - [Layouts](#Layouts)
-- [GitHub Extras](#GitHubExtras)
+- [GitHub Extras](#GitHub-Extras)
 - [Pitfalls](#Pitsfalls)
 
 # Text
