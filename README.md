@@ -5,4 +5,6 @@
 - [Course Repository](https://breuert.github.io/data-integration/)
 
 ## Here is a list of Labs
-- Lab01
+- [Lab01](https://github.com/Niggo50/data-integration-labs/tree/main/labs/01)
+
+## License
