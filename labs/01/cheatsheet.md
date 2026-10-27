@@ -86,4 +86,41 @@ Example:
 - [Task lists](#Task-lists)
 
 # Unordered, ordered and nested lists
+To create an unordered list add `-` infront of your listed texts.  
+To create an ordered list add numbers infront of your listed texts.  
+To nest two lists with each other indent the texts in the sublist by two whitespaces.  
+Example:
+```
+- first
+- second
+- third
+
+1. first
+2. second
+3. third
+
+- first
+  - second
+  - third
+```
+- first
+- second
+- third
+
+1. first
+2. second
+3. third
+
+- first
+  - second
+  - third
+
 # Task lists
+To create task lists use `- [ ]` for non-complete tasks and `- [x]` for completed tasks.  
+Example:
+```
+- [ ] Bananas
+- [x] Milk
+```
+- [ ] Bananas
+- [x] Milk
