@@ -1,6 +1,12 @@
 # Table of Contents
 - [Text](#Text)
 - [Lists](#Lists)
+- [Links and images](Links-and-images)
+- [Code](#Code)
+- [Quotes](#Quotes)
+- [Tables](#Tables)
+- [Layout](#Layout)
+- [GitHub extras](#GitHub-extras)
 
 # Text
 - [Headings](#Headings)
@@ -124,3 +130,10 @@ Example:
 ```
 - [ ] Bananas
 - [x] Milk
+
+# Links and images
+# Code
+# Quotes
+# Tables
+# Layout
+# GitHub extras
