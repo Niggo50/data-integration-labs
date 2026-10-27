@@ -132,8 +132,8 @@ Example:
 - [x] Milk
 
 # Links and images
-- [Inline and reference-style links]
-- [a relative link to another file in your repository]
+- [Inline and reference-style links](#Inline-and-referencestyle-links)
+- [A relative link to another file in your repository](#a-relative-link-to-another-file-in-your-repository)
 
 ## Inline and reference-style links
 To add a reference-link to a text put the text into `[]` and add a number afterwards in `[]`. Put the same number after the text in `[]:` and the reference-link afterwards in `<>`.   
