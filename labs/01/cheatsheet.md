@@ -65,7 +65,7 @@ Example
 ```
 ~This is right~
 
-# Inline coding
+# Inline code
 To use inline code add ` at the start and at the end of your code.  
 Example
 ```
