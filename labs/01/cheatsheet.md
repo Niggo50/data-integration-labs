@@ -263,9 +263,70 @@ Example:
 - [Comments that do not render](#Comments-that-do-not-render)
 
 ## Horizontal rules
+To create horizontal rules put `***`, `---` or `___` i a line.  
+Example:
+```
+---
+___
+***
+```
+---
+___
+***
 
 ## Collapsed sections, like the hints in this lab
+To create collapsed sections put `<details>` at the strat and `</details>` end of the section in a seperate line.  
+Put `<summary>` at the second line followed by the teaser-text for the section and `</summary>` at the end.   
+Example:
+
+```
+<details>
+
+<summary>Tips for collapsed sections</summary>
+
+### You can add a header
+
+You can add text within a collapsed section.
+
+You can add an image or a code block, too.
+</details>
+
+```
+<details>
+
+<summary>Tips for collapsed sections</summary>
+
+### You can add a header
+
+You can add text within a collapsed section.
+
+You can add an image or a code block, too.
+</details>
 
 ## Comments that do not render
+To create comments in your markdown text that do not render put the text into `[]` followed by `: #`.  
+Example:
+```
+Here's a paragraph that will be visible.
+
+[This is a comment that will be hidden.]: # 
+
+And here's another paragraph that's visible.
+```
+Here's a paragraph that will be visible.  
+
+[This is a comment that will be hidden.]: # 
+
+And here's another paragraph that's visible.
 
 # GitHub extras
+- [Foornotes](#footnotes)
+- [Emoji shortcodes](#emoji-shortcodes)
+- [@mentions and references to issues]()
+- [A Mermaid diagram](#a-mermaid-diagram)
+- [A formula](#a-formula)
+## Footnotes
+## Emoji shortcodes
+## @mentions and references to issues
+## A Mermaid diagram
+## A formula
