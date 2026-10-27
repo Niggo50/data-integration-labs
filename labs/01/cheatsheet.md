@@ -132,8 +132,9 @@ Example:
 - [x] Milk
 
 # Links and images
-- [Inline and reference-style links](#Inline-and-referencestyle-links)
+- [Inline and reference-style links](#inline-and-reference-style-links)
 - [A relative link to another file in your repository](#a-relative-link-to-another-file-in-your-repository)
+- [A link to a section](#a-link-to-a-section)
 
 ## Inline and reference-style links
 To add a reference-link to a text put the text into `[]` and add a number afterwards in `[]`. Put the same number after the text in `[]:` and the reference-link afterwards in `<>`.   
@@ -159,6 +160,13 @@ Check out my [README](../../README.md)
 ```
 Check out my [README](../../README.md)
 
+## A link to a section
+To create a link to a section put the section-heading in the reference `()` with the `#`.  
+Example:
+```
+Reference to [A link to a section](#A-link-to-a-section).
+```
+Reference to [A link to a section](#A-link-to-a-section).
 # Code
 # Quotes
 # Tables
