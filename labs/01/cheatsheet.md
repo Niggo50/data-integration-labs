@@ -9,14 +9,14 @@
 - [GitHub extras](#GitHub-extras)
 
 # Text
-- [Headings](#Headings)
-- [Paragraphs and line breaks](#Paragraphs-and-line-breaks)
-- [Italic, bold and both](#Italic-bold-and-both)
-- [Strikethrough](#Strikethrough)
-- [Inline code](#Inline-code)
-- [Escaping a character such as `*`](#Escaping-a-character-such-as-)
+- [Headings](##Headings)
+- [Paragraphs and line breaks](##Paragraphs-and-line-breaks)
+- [Italic, bold and both](##Italic-bold-and-both)
+- [Strikethrough](##Strikethrough)
+- [Inline code](##Inline-code)
+- [Escaping a character such as `*`](##Escaping-a-character-such-as-)
 
-# Headings
+## Headings
 Adding # to the front of a text will turn it into a heading. The more # there are in front of the text the smaller the text will be.   
 Example:
 ```
@@ -36,7 +36,7 @@ Example:
 ###### Heading
 ####### Heading
 
-# Paragraphs and line breaks
+## Paragraphs and line breaks
 To create paragraphs leave a line blank. To beginn a new line add two or more whitespaces at the end of the line.  
 Example:
 ```
@@ -50,7 +50,7 @@ Hello
 
 Hello
 
-# Italic, bold and both
+## Italic, bold and both
 To change the text to italic or bold add * at both ends of the text.  
 Use one * at each end for italic, two for bold and three for both.  
 Example:
@@ -63,7 +63,7 @@ I like *italic*
 I like **bold**  
 I Like ***italic and bold***
 
-# Strikethrough
+## Strikethrough
 Add ~~ at each end of the text to create strikethrough text.  
 Example
 ```
@@ -71,7 +71,7 @@ Example
 ```
 ~This is right~
 
-# Inline code
+## Inline code
 To use inline code add ` at the start and at the end of your code.  
 Example
 ```
@@ -79,7 +79,7 @@ To print something in python use the `print()` function.
 ```
 To print something in python use the `print()` function.
 
-# Escaping a character such as `*`
+## Escaping a character such as `*`
 If you want to use characters such as `*` or `#` without accidentally changing your text use a `\` infront of the character.  
 Example: 
 ```
@@ -88,10 +88,10 @@ Example:
 \* Hello \*
 
 # Lists
-- [Unordered, ordered and nested lists](#unordered-ordered-and-nested-lists)
-- [Task lists](#Task-lists)
+- [Unordered, ordered and nested lists](##unordered-ordered-and-nested-lists)
+- [Task lists](##Task-lists)
 
-# Unordered, ordered and nested lists
+## Unordered, ordered and nested lists
 To create an unordered list add `-` infront of your listed texts.  
 To create an ordered list add numbers infront of your listed texts.  
 To nest two lists with each other indent the texts in the sublist by two whitespaces.  
@@ -121,7 +121,7 @@ Example:
   - second
   - third
 
-# Task lists
+## Task lists
 To create task lists use `- [ ]` for non-complete tasks and `- [x]` for completed tasks.  
 Example:
 ```
@@ -135,19 +135,29 @@ Example:
 - [Inline and reference-style links]
 - [a relative link to another file in your repository]
 
-# Inline and reference-style links
-To add a reference-link to a text put the text into `[]` and add a number afterwards in `[]`. Put the same number after the text in `[]:` and the reference-link afterwards in `<>`
+## Inline and reference-style links
+To add a reference-link to a text put the text into `[]` and add a number afterwards in `[]`. Put the same number after the text in `[]:` and the reference-link afterwards in `<>`.   
+You can also add the reference-link after the text in `()`.
 Example:
 ```
+I use [Google](https://www.google.com)
+
 I use [Google][1].
-[1]: <https://www.google.com/>
+
+[1]: https://www.google.com
 ```
-I use [Google][1].  
-[1]: <https://www.google.com/>
+I use [Google](https://www.google.com).
 
-# A relative link to another file in your repository
+I use [Google][1].
 
+[1]: https://www.google.com
 
+## A relative link to another file in your repository
+To refer to a file in your repository put the directory of the file in the reference `()`.
+```
+Check out my [README](../../README.md)
+```
+Check out my [README](../../README.md)
 
 # Code
 # Quotes
