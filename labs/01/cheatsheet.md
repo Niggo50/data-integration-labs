@@ -191,7 +191,7 @@ your function
 ```
 
 # Quotes
-- [Blockquotes, nested and with formatting](Blockquotes-nested-and-with-formatting)
+- [Blockquotes, nested and with formatting](#Blockquotes-nested-and-with-formatting)
 - [Alerts, like the boxes in this lab](#alerts-like-the-boxes-in-this-lab)
 
 ## Blockquotes, nested and with formatting
