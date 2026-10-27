@@ -135,6 +135,7 @@ Example:
 - [Inline and reference-style links](#inline-and-reference-style-links)
 - [A relative link to another file in your repository](#a-relative-link-to-another-file-in-your-repository)
 - [A link to a section](#a-link-to-a-section)
+- [An image with alt text](#An-image-with-alt-text)
 
 ## Inline and reference-style links
 To add a reference-link to a text put the text into `[]` and add a number afterwards in `[]`. Put the same number after the text in `[]:` and the reference-link afterwards in `<>`.   
@@ -167,6 +168,15 @@ Example:
 Reference to [A link to a section](#A-link-to-a-section).
 ```
 Reference to [A link to a section](#A-link-to-a-section).
+
+## An image with alt text
+To add an image with al text add an `!` befor the alt text in `[]` followed by the reference in `()`. You can add a title after the reference in `"` if you want.  
+Example:
+```
+
+```
+![The San Juan Mountains are beautiful](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+
 # Code
 # Quotes
 # Tables
