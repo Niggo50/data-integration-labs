@@ -242,6 +242,30 @@ Example:
 >This is important
 
 # Tables
+To create a table use `|` to separate columns and `---` to separate rows.  
+Example:
+```
+|Month|Days|
+|-----|----|
+|January|31|
+|February|28\|29|
+|March|31|
+```
+|Month|Days|
+|-----|----|
+|January|31|
+|February|28\|29|
+|March|31|
 
 # Layout
+- [Horizontal rules](#Horizontal-rules)
+- [Collapsed sections, like the hints in this lab](#Collapsed-sections-like-the-hints-in-this-lab)
+- [Comments that do not render](#Comments-that-do-not-render)
+
+## Horizontal rules
+
+## Collapsed sections, like the hints in this lab
+
+## Comments that do not render
+
 # GitHub extras
