@@ -1,6 +1,6 @@
 # Table of Contents
 - [Text](#Text)
-
+- [Lists](#Lists)
 
 # Text
 - [Headings](#Headings)
