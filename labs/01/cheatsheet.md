@@ -173,9 +173,9 @@ Reference to [A link to a section](#A-link-to-a-section).
 To add an image with al text add an `!` befor the alt text in `[]` followed by the reference in `()`. You can add a title after the reference in `"` if you want.  
 Example:
 ```
-
+[![Flicker](./flicker.jpg "Northern flicker, male")](https://en.wikipedia.org/wiki/Northern_flicker#/media/File:Northern_yellow-shafted_flicker_male_(33737)_(cropped).jpg)
 ```
-![The San Juan Mountains are beautiful](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+[![Flicker](./flicker.jpg "Northern flicker, male")](https://en.wikipedia.org/wiki/Northern_flicker#/media/File:Northern_yellow-shafted_flicker_male_(33737)_(cropped).jpg)
 
 # Code
 # Quotes
