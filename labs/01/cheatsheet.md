@@ -1,7 +1,7 @@
 # Table of Contents
 - [Text](#Text)
 - [Lists](#Lists)
-- [Links and images](Links-and-images)
+- [Links and images](#Links-and-images)
 - [Code](#Code)
 - [Quotes](#Quotes)
 - [Tables](#Tables)
