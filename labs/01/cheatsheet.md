@@ -170,7 +170,7 @@ Reference to [A link to a section](#A-link-to-a-section).
 Reference to [A link to a section](#A-link-to-a-section).
 
 ## An image with alt text
-To add an image with al text add an `!` befor the alt text in `[]` followed by the reference in `()`. You can add a title after the reference in `"` if you want.  
+To add an image with al text add an `!` befor the alt text in `[]` followed by the reference in `()`. You can add a title after the reference in `"` if you want. If you want to refer a link to the image encase everything in `[]` and add the link afterwards `()`.
 Example:
 ```
 [![Flicker](./flicker.jpg "Northern flicker, male")](https://en.wikipedia.org/wiki/Northern_flicker#/media/File:Northern_yellow-shafted_flicker_male_(33737)_(cropped).jpg)
