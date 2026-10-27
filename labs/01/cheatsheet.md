@@ -1,28 +1,82 @@
 # Table of Contents
 - [Text](#Text)
-- [Lists](#Lists)
-- [Links and Images](#Links-and-Images)
-- [Code](#Code)
-- [Quotes](#Quotes)
-- [Tables](#Tables)
-- [Layouts](#Layouts)
-- [GitHub Extras](#GitHub-Extras)
-- [Pitfalls](#Pitsfalls)
+
 
 # Text
+- [Headings](#Headings)
+- [Paragraphs and line breaks](#Paragraphs-and-line-breaks)
+- [Italic, bold and both](#Italic,-bold-and-both)
+- [Strikethrough](#Strikethrough)
+- [Inline code](#Inline-code)
+- [Escaping a character such as `*`](#Escaping-a-character-such-as-`*`)
 
-# Lists
+# Headings
+Adding # to the front of a text will turn it into a heading. The more # there are in front of the text the smaller the text will be.   
+Example:
+```
+# Heading
+## Heading
+### Heading
+#### Heading
+##### Heading
+###### Heading
+####### Heading
+```
+# Heading
+## Heading
+### Heading
+#### Heading
+##### Heading
+###### Heading
+####### Heading
 
-# Links and Images
+# Paragraphs and line breaks
+To create paragraphs leave a line blank. To beginn a new line add two or more whitespaces at the end of the line.  
+Example:
+```
+Hi i want to start a new line.  
+Hello
 
-# Code
+Hello
+```
+Hi i want to start a new line.  
+Hello
 
-# Quotes
+Hello
 
-# Tables
+# Italic, bold and both
+To change the text to italic or bold add * at both ends of the text.  
+Use one * at each end for italic, two for bold and three for both.  
+Example:
+```
+I like *italic*  
+I like **bold**
+I Like ***italic and bold***
+```
+I like *italic*  
+I like **bold**  
+I Like ***italic and bold***
 
-# Layouts
+# Strikethrough
+Add ~~ at each end of the text to create strikethrough text.  
+Example
+```
+~This is right~
+```
+~This is right~
 
-# GitHub Extras
+# Inline coding
+To use inline code add ` at the start and at the end of your code.  
+Example
+```
+To print something in python use the `print()` function.
+```
+To print something in python use the `print()` function.
 
-# Pitfalls
+# Escaping a character such as `*`
+If you want to use characters such as `*` or `#` without accidentally changing your text use a `\` infront of the character.  
+Example: 
+```
+\* Hello \*
+```
+\* Hello \*
