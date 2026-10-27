@@ -178,7 +178,70 @@ Example:
 [![Flicker](./flicker.jpg "Northern flicker, male")](https://en.wikipedia.org/wiki/Northern_flicker#/media/File:Northern_yellow-shafted_flicker_male_(33737)_(cropped).jpg)
 
 # Code
+## Fenced code blocks with syntax highlighting for Python, Bash and JSON
+To add a code block put ``` in the lines before and after the code block.  
+Example:
+````
+```
+your function
+```
+````
+```
+your function
+```
+
 # Quotes
+- [Blockquotes, nested and with formatting](Blockquotes-nested-and-with-formatting)
+- [Alerts, like the boxes in this lab](#alerts-like-the-boxes-in-this-lab)
+
+## Blockquotes, nested and with formatting
+To put a quote into a block add a `>` at the start of the quote.  
+Example:
+```
+>This is my quote.  
+>It is more than one line long.
+```
+
+>This is my quote.  
+>It is more than one line long.
+
+## Alerts, like the boxes in this lab
+To add an alert box you have to put the heading of the alert in `[!NOTE]` at the line in front of the alert. The alert also has to have `>` at the start of each line.  
+Other alerts are `[!TIP]`, `[!WARNING]`, `[!CAUTION]` and `[!IMPORTANT]`
+Example:
+```
+>[!NOTE]
+>This is a useful note.
+
+>[!TIP]
+>This is a useful tip.
+
+>[!WARNING]
+>This is a useful warning
+
+>[!CAUTION]
+>You should be cautious of this.
+
+>[!IMPORTANT]
+>This is important
+
+```
+>[!NOTE]
+>This is a useful note.
+
+>[!TIP]
+>This is a useful tip.
+
+>[!WARNING]
+>This is a useful warning
+
+>[!CAUTION]
+>You should be cautious of this.
+
+>[!IIMPORTANT]
+>This is important
+
 # Tables
+
 # Layout
 # GitHub extras
