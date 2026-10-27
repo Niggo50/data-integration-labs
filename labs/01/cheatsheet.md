@@ -132,6 +132,23 @@ Example:
 - [x] Milk
 
 # Links and images
+- [Inline and reference-style links]
+- [a relative link to another file in your repository]
+
+# Inline and reference-style links
+To add a reference-link to a text put the text into `[]` and add a number afterwards in `[]`. Put the same number after the text in `[]:` and the reference-link afterwards in `<>`
+Example:
+```
+I use [Google][1].
+[1]: <https://www.google.com/>
+```
+I use [Google][1].  
+[1]: <https://www.google.com/>
+
+# A relative link to another file in your repository
+
+
+
 # Code
 # Quotes
 # Tables
