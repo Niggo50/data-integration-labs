@@ -5,7 +5,7 @@
 # Text
 - [Headings](#Headings)
 - [Paragraphs and line breaks](#Paragraphs-and-line-breaks)
-- [Italic, bold and both](#Italic\,-bold-and-both)
+- [Italic, bold and both](#Italic,-bold-and-both)
 - [Strikethrough](#Strikethrough)
 - [Inline code](#Inline-code)
 - [Escaping a character such as `*`](#Escaping-a-character-such-as-`*`)
