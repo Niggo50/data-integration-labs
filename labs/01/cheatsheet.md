@@ -238,7 +238,7 @@ Example:
 >[!CAUTION]
 >You should be cautious of this.
 
->[!IIMPORTANT]
+>[!IMPORTANT]
 >This is important
 
 # Tables
