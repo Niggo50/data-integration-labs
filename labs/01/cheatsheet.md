@@ -342,4 +342,6 @@ To insert emojis use the shortcodes in [this](https://gist.github.com/rxaviers/7
 ## @mentions and references to issues
 
 ## A Mermaid diagram
+
 ## A formula
+
