@@ -322,11 +322,24 @@ And here's another paragraph that's visible.
 # GitHub extras
 - [Foornotes](#footnotes)
 - [Emoji shortcodes](#emoji-shortcodes)
-- [@mentions and references to issues]()
+- [@mentions and references to issues](#mentions-and-references-to-issues)
 - [A Mermaid diagram](#a-mermaid-diagram)
 - [A formula](#a-formula)
+
 ## Footnotes
+To create footnotes put the footnote identfier into `[^]` and add the footnote later using the identifier followed by the text.  
+Example:
+```
+This is a footnote. [^1]
+[^1]: Hello
+```
+This is a footnote. [^1]
+[^1]: Hello
+
 ## Emoji shortcodes
+To insert emojis use the shortcodes in [this](https://gist.github.com/rxaviers/7360908) list.
+
 ## @mentions and references to issues
+
 ## A Mermaid diagram
 ## A formula
